@@ -1,0 +1,42 @@
+client nums : 2
+Speed=1032 pages/min, 17337 bytes/sec.
+Requests: 172 susceed, 0 failed.
+
+client nums : 4
+
+client nums : 1024
+Speed=1044 pages/min, 17544 bytes/sec.
+Requests: 174 susceed, 0 failed.
+
+client nums : 8
+Speed=378 pages/min, 6264 bytes/sec.
+Requests: 63 susceed, 0 failed.
+
+client nums : 16
+Speed=684 pages/min, 11397 bytes/sec.
+Requests: 113 susceed, 1 failed.
+
+client nums : 32
+Speed=330 pages/min, 4939 bytes/sec.
+Requests: 49 susceed, 6 failed.
+
+client nums : 64
+Speed=426 pages/min, 6967 bytes/sec.
+Requests: 69 susceed, 2 failed.
+
+client nums : 128
+Speed=1680 pages/min, 26218 bytes/sec.
+Requests: 260 susceed, 20 failed.
+
+client nums : 256
+Speed=0 pages/min, 0 bytes/sec.
+Requests: 0 susceed, 0 failed.
+
+client nums : 512
+
+Speed=0 pages/min, 0 bytes/sec.
+Requests: 0 susceed, 0 failed.
+
+client nums : 1024
+Speed=0 pages/min, 0 bytes/sec.
+Requests: 0 susceed, 0 failed.
